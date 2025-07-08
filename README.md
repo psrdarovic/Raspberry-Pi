@@ -16,3 +16,6 @@ HARDVER
 - MG995 (Servo motor za ispuštanje hrane iz spremnika
 - I2C LCD (Zaslon za prikaz infromacija)
 - Baza SQLite (Za lokalnu pohranu podataka)
+
+  KONCEPTUALNI IZGLED 
+![spajanje_izgled_bb](https://github.com/user-attachments/assets/74a8d897-c82e-44af-a17d-f3bf47f2ae31)
